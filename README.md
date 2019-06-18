@@ -6,8 +6,8 @@ $ pkg install python2
 $ pkg install python
 $ pip install requests
 $ pip2 install mechanize
-$ git clone https://github.com/Rizky-ID/autombf
-$ cd autombf
+$ git clone https://github.com/Badru-ID/autofbmbf
+$ cd autofbmbf
 $ python2 autombf.pyc
 ```
 # NOTE
@@ -19,7 +19,6 @@ REMEMBER THE SIGNS ($) DO NOT FOLLOW ON TO TERMUX
 Termux
 ```
 # CONTACK
-### FB : Rizky-ID
-### GROUP : •HACKER•
-
+### FB : MUHAMAD BADRU WASIH
+### LINK FB : •https://WWW.facebook.com/Z.hani10
 # THANK YOU FOR USING MY TOOL
